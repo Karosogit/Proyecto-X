@@ -1,4 +1,7 @@
 package com.mycompany.proyectoxx;
+
+import com.mycompany.igu.Principal;
+
 public class ProyectoXX 
 {
     public static void main(String[] args)
